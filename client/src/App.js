@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>
-        Hi My Name is{" "}
+        Hi My Name is not{" "}
         <a href="https://pulasthiaberathne.medium.com/the-git-7cc8dbd11352">
           Pulasthi Aberathne
         </a>
